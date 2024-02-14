@@ -2,9 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreymarques822/)
 
-  ![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymarques1202&show_icons=true&theme=onedark)
-  ![Andrey Github](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymarques1202&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=Hack)
-
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreymarques1202&show_icons=true&theme=onedark" alt="Status"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreymarques1202&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=Hack"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andreymarques1202&theme=onedark&hide_border=false"/>
+  </div>
+  
 ## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
