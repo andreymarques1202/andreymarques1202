@@ -5,7 +5,7 @@
 
 ![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andreymarques1202&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymarques1202&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreymarques1202)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia
 
