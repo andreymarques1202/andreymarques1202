@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Andrey Marques 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreymarques822/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreymmarques/)
 
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreymarques1202&show_icons=true&theme=onedark" alt="Status"/>
