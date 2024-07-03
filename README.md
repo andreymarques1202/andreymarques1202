@@ -1,8 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 
-<p align="left"> 
+<p> 
     Hello my name is Andrey and i'm a <strong>fullstack web developer</strong>.<br>
 </p>
+<br>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img> Um pouco mais sobre mim
 
