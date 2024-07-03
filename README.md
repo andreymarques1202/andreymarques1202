@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="100%">
 
-<p> 
-    Hello my name is Andrey and i'm a <strong>fullstack web developer</strong>.<br>
+<p align="center"> 
+    Hello my name is Andrey and i'm a <strong>fullstack web developer</strong>. welcome to my profile Here you can find my projects and class exercises<br>
 </p>
 <br>
 
